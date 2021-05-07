@@ -1,5 +1,5 @@
 ```diff
-- text in red
+- text in red Omar likes sniffing balls
 + text in green
 ! text in orange
 # text in gray
